@@ -1,0 +1,1 @@
+These are just basic functions in order to try out Jest and get a feel of TDD. The excercises will include installing Jest and writing some test that we can use as a base so the functions can be written later
